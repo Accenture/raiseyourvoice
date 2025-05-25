@@ -89,8 +89,6 @@ We’re excited to share this with **anyone grappling with how to harness Gen AI
 <img src="images/ryv_box.jpg" width="100%">
 
 
-*Raise Your Voice is the product of collaborative design, strategic foresight, and global research. If you’re ready to play a part in designing a fairer AI future — this is your invitation.*
-
 
 ---
 
@@ -101,10 +99,10 @@ We’re excited to share this with **anyone grappling with how to harness Gen AI
 **Visual Design & Game Materials**: Ciara Wade, Shane Casey, Peter Crawley<br />
 **Research Team**: Dr Sabrina Anjara, PhD., Fergus Gleeson, Darragh Miller, Charlotte O'Neill, Lamiita Traista, Amy Dunford-Stenger, John Carruthers, Suzy Madigan, Jess Majekodunmi, Louise James, Jess Hyde, Suzanne Hickey <br />
 
----
-
-## 🪪 License
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />*Raise Your Voice* will be released under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">**Creative Commons BY-NC-SA 4.0 License**</a> – free to use, remix, and adapt for non-commercial use with attribution.
-
 
 *Raise Your Voice is the product of collaborative design, strategic foresight, and global research. If you’re ready to play a part in designing a fairer AI future — this is your invitation.*
+
+---
+
+## ©️ License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />*Raise Your Voice* will be released under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">**Creative Commons BY-NC-SA 4.0 License**</a> – free to use, remix, and adapt for non-commercial use with attribution.
