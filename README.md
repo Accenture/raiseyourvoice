@@ -1,5 +1,5 @@
 # 💬 Raise Your Voice 📢
-> A strategy game for the future of AI in humanitarian work by Accenture
+> *A strategy game for the future of AI in humanitarian work and underserved communities*
 
 <img src="images/raise-your-voice.png" width="100%">
 
@@ -28,7 +28,7 @@ This game is one response — a **creative tool to provoke insight, discussion a
 
 ## 🎲 How the Game Works
 
-Players take on asymmetric roles like:
+Players take on asymmetric roles such as:
 - **Civil Society Organizations (CSOs)**
 - **Non-Governmental Organizations (NGOs)**
 - **Multinational Corporations (MNCs)**
@@ -59,24 +59,24 @@ The gameplay is grounded in:
 - 🤝 **Co-creation** — Community engagement and participatory design
 - ⚖️ **Equity** — Anyone working to close the digital divide or center marginalized voices in tech policy
 
-The game blends analytical rigor with creative play, helping leaders not just think *about* the future, but *think* in the future – exploring uncertainty, negotiating trade-offs and responding to changing conditions to surface blind spots, stress-test assumptions and uncover novel solutions.
+The game blends analytical rigor with creative play, helping leaders not just think *about* the future, but *think in* the future – exploring uncertainty, negotiating trade-offs and responding to changing conditions to surface blind spots, stress-test assumptions and uncover novel solutions.
 
 ---
 
 ## 📦 Coming Soon: Download & Play
 
 We're working to publish a **full print-and-play version** of the game, including:
-- ℹ️ Rulebooks for **Full Play** and **First Play** modes
+- 📘 Rulebooks for **Full Play** and **First Play** modes
 - 🗺️ Printable game board
 - 🃏 Cards and tokens
-- 📘 Scenarios and role materials
+- 📝 Scenarios and role materials
 
 > *First Play Mode* is a simplified version, recommended for learning the game or shorter sessions.  
 > *Full Play Mode* includes customizable political climates; multiple game scenarios; more actor types; enhanced AI licensing and harm mitigation capabilities; and introduces government interference and more.
 
 ---
 
-## 🚀 Stay in the Loop
+## 📬 Stay in the Loop
 
 We're excited to share this with **anyone grappling with how to harness Gen AI to close the digital divide in inclusive, participatory ways.**
 
@@ -91,7 +91,7 @@ We're excited to share this with **anyone grappling with how to harness Gen AI t
 ---
 
 ## 👥 Contributors
-*Raise Your Voice* was designed by the Human Sciences Studio of Accenture at The Dock in Dublin.
+*Raise Your Voice* was designed by the Human Sciences Studio of Accenture The Dock in Dublin.
 
 **Game Design**: Shane Casey, Dr David Banks, PhD.<br />
 **Visual Design & Game Materials**: Ciara Wade, Shane Casey, Peter Crawley<br />
@@ -102,4 +102,4 @@ We're excited to share this with **anyone grappling with how to harness Gen AI t
 ---
 
 ## ©️ License
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />*Raise Your Voice* will be released under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">**Creative Commons BY-NC-SA 4.0 License**</a> – free to use, remix and adapt for non-commercial use with attribution.
+*Raise Your Voice* will be released under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">**Creative Commons BY-NC-SA 4.0 License**</a> – free to use, remix and adapt for non-commercial use with attribution. <br /> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> 
