@@ -93,9 +93,9 @@ We're excited to share this with **anyone grappling with how to harness Gen AI t
 ## 👥 Contributors
 *Raise Your Voice* was designed by the Human Sciences Studio of Accenture The Dock in Dublin.
 
-**Game Design**: Shane Casey, Dr David Banks, PhD.<br />
-**Visual Design & Game Materials**: Ciara Wade, Shane Casey, Peter Crawley<br />
-**Research Team**: Dr Sabrina Anjara, PhD., Fergus Gleeson, Darragh Miller, Charlotte O'Neill, Lamiita Traista, Amy Dunford-Stenger, John Carruthers, Suzy Madigan, Jess Majekodunmi, Louise James, Jess Hyde, Suzanne Hickey<br />
+**Game Design**: Dr David Banks, PhD., Shane Casey<br />
+**Visual Design & Game Materials**: Shane Casey, Peter Crawley, Ciara Wade<br />
+**Research Team**: Dr Sabrina Anjara, PhD., John Carruthers, Amy Dunford-Stenger, Fergus Gleeson, Suzanne Hickey, Jess Hyde, Louise James, Suzy Madigan, Jess Majekodunmi, Darragh Miller, Charlotte O'Neill, Lamiita Traista<br />
 
 *Raise Your Voice is the product of collaborative design, strategic foresight and global research. If you're ready to play a part in designing a fairer AI future — this is your invitation.*
 
